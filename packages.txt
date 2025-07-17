@@ -1,0 +1,35 @@
+htop
+btop
+nvtop
+git
+
+# For config deployment
+stow
+
+# Cli stuff
+fish
+yazi
+zoxide
+fzf
+kitty
+helix
+lazygit
+ripgrep # Better grep
+fd      # Better find
+eza     # Better ls
+dust    # Better du
+duf     # Better df
+
+# Archives
+unp
+7zip
+
+# Media Player
+mpv
+mediainfo
+
+# Rust
+rust
+rust-analyzer
+
+keepassxc
